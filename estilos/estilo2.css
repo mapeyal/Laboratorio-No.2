@@ -1,0 +1,54 @@
+#Contenedor{
+    height: 100%;
+    width: 100%;
+    background-color: aqua;
+    border: 5px solid black;
+
+}
+#Header{
+    width: 100%;
+    height: 15%;
+    border-radius: 1em;
+    border: 5px solid black;
+    text-align: center;
+    font: italic;
+    font-size: 40px;
+    
+}
+#Nav{
+    width: 100%;
+    height: 10%;
+    border-radius: 1em;
+    border: 5px solid black;
+}
+.div1{
+    width: 33%;
+    height: 5%;
+    text-align: center;
+    font: bolder;
+    font-size: 20px;
+    float: left;
+}
+.div2{
+    width: 33%;
+    height: 9%;
+    text-align: center;
+    font: bolder;
+    font-size: 30px;
+    float: left;
+}
+.div3{
+    width: 33%;
+    height: 9%;
+    text-align: center;
+    font: bolder;
+    font-size: 30px;
+    float: left;
+}
+#Footer{
+    height: 10%;
+    width: 100%;
+    text-align: center;
+    border-radius: 1em;
+    border: 5px solid black;
+}
